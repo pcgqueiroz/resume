@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Pedro Camilo de Godoy Queiroz",
+    "label": "Programmer",
+    "picture": "",
+    "email": "pedrobh@gmail.com",
+    "phone": "+66 (61) 98233-2209",
+    "website": "http://ideelabs.com",
+    "summary": "In permanent beta: learning, improving, evolving…",
+    "location": {
+      "address": "SQS 314 Bloco G Ap 606",
+      "postalCode": "70383-070",
+      "city": "Brasília",
+      "countryCode": "BR",
+      "region": "DF"
+    }
+  },
+  "work": [
+    {
+      "company": "Brazilian Federal Prosecution Office",
+      "position": "Information Technology System Engineer",
+      "website": "http://www.mpf.mp.br/pgr",
+      "startDate": "2010-11-01",
+      "summary": "Brazilian Government",
+      "highlights": [
+        "server virtualisation system operation",
+        "operating systems maintenance",
+        "public contracts management"
+      ]
+    },
+    {
+      "company": "Spin Networks Inc",
+      "position": "Senior Software Developer",
+      "website": "",
+      "startDate": "2002-04-01",
+      "endDate": "2010-11-01",
+      "summary": "Custom Computer Programming Services",
+      "highlights": [
+        "backend software development",
+        "database development and design",
+        "network solutions development"
+      ]
+    },
+    {
+      "company": "Phonatis",
+      "position": "Software Developer Internship",
+      "website": "",
+      "startDate": "2000-07-01",
+      "endDate": "2000-09-01",
+      "summary": "Telecommunication Solutions ",
+      "highlights": ["software backend and frontend development"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Damásio Educacional",
+      "area": "International Relations and Affairs",
+      "studyType": "Postgraduate Certificate",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01"
+    },
+    {
+      "institution": "Centralle Lille",
+      "area": "Computer Engineering",
+      "studyType": "Undergraduate Exchange Study Programme",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01"
+    },
+    {
+      "institution": "Federal University of Minas Gerais",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "BS Degree",
+      "startDate": "1997-01-01",
+      "endDate": "2002-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient user"
+    },
+    {
+      "language": "French",
+      "fluency": "Proficient user"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Independent user"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Recorder",
+      "keywords": ["Music", "Instrument"]
+    }
+  ],
+  "meta": {
+    "theme": "elegant"
+  }
+}

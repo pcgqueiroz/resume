@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pedro Queiroz",
+  "license": "MIT",
+  "scripts": {
+    "resume": "resume",
+    "resume:flat": "resume export index.html --theme flat"
+  },
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.12.1",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^1.2.7"
+  }
+}
